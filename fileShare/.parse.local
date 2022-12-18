@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "fileShare"
+    },
+    "fileShare": {
+      "applicationId": "nzfYj9Y0piRh5bYAiEM4KMdHtDSc0F4pmM59Ky8k"
+    }
+  }
+}
